@@ -1,2 +1,2 @@
-# MATLAB-Signals-and-Systems
-Various functions and codes relating to Signals and system.
+# MATLAB
+This repository contains various codes and functions related to Signal Processing, Control Systems in MATLAB.
